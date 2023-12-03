@@ -1,6 +1,6 @@
 # Ecommerce Customer Behaviour Analysis
 
-In this project, we will use unsupervised machine learning to categorize clients based on features of their purchase behavior. Predictive marketing may help businesses by finding clients that have similar demands or respond similarly to particular marketing activity. Furthermore, owing to our research, we can undoubtedly help business in determining the suitable categories to direct their targeted marketing campaigns.
+In this project, we will use unsupervised machine learning to categorize clients based on features of their purchase behavior. Predictive marketing may help businesses by finding clients that have similar demands or respond similarly to particular marketing activity. Furthermore, owing to research, we can undoubtedly help business in determining the suitable categories to direct their targeted marketing campaigns.
 **PHASES OF PROCESS FOLLOWED**
 BUISINESS UNDERSTANDING
 DATA UNDERSTANDING
@@ -10,7 +10,7 @@ MODELING:PRINCIPAL COMPONENT ANALYSIS(PCA)
 
 
 *BUSINESS UNDERSTANDING*
-Hunter's e-grocery is a well-known new generation lifestyle brand. That has a brand presence in ten countries and is continually seeking for new methods to better and anticipate the demands of their customers. Black swan events such as Covid-19, the Ukraine crisis, and the gas scarcity have all had an influence on the purchasing behaviour of clients. Therefore, using an unsupervised machine learning model and Principal component analysis (PCA) for dimensionality reduction, We will develop a business values proposition for predictive marketing in order to target our customers based on features of their purchasing behavior.
+Hunter's e-grocery is a well-known new generation lifestyle brand. That has a brand presence in ten countries and is continually seeking for new methods to better and anticipate the demands of their customers. Black swan events such as Covid-19, the Ukraine crisis, and the gas scarcity have all had an influence on the purchasing behaviour of clients. Therefore, using an unsupervised machine learning model and Principal component analysis (PCA) for dimensionality reduction to develop a business values proposition for predictive marketing in order to target our customers based on features of their purchasing behavior.
 
 *DATA UNDERSTANDING*
 The dataset consists of 2019501 Rows & 12 Columns which are as follows :
@@ -49,8 +49,8 @@ Suppose we have a dataset with two features (x and y) and we want to use K-means
 Therefore, the following are the methodological steps we will be taking to build our model:
 
 First step we will be training & experimenting K-means with 6 clusters (testing version)
-Second step we will try to run the K-means on a rang of 2 -10 clusters (to find optimal number of cluster)
-Creat Scree plot to visualize the inertia using Elbow method (for visualization)
+Second step we will try to run the K-means on a range of 2 -10 clusters (to find optimal number of cluster)
+Create Scree plot to visualize the inertia using Elbow method (for visualization)
 
 **PCA MODELING**
 PCA:
